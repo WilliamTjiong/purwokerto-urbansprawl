@@ -4,3 +4,6 @@ Urban sprawl of Purwokerto , Indonesia depicted with Landsat 5 true color images
 ![final_map](https://github.com/WilliamTjiong/purwokerto-urbansprawl/blob/master/pwt_rgb.png)
 ![final_map_gif](https://github.com/WilliamTjiong/purwokerto-urbansprawl/blob/master/pwt_rgb_gif.gif)
 
+<div style="text-align:center"><img src ="https://github.com/WilliamTjiong/purwokerto-urbansprawl/blob/master/pwt_rgb.png" />Final map</div>
+
+<div style="text-align:center"><img src ="https://github.com/WilliamTjiong/purwokerto-urbansprawl/blob/master/pwt_rgb_gif.gif" />Final map GIF</div>
